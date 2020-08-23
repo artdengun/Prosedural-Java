@@ -13,7 +13,7 @@ public class ArraysForEach {
         for(int i = 0; i < 9; i++){
             System.out.println(" pengulangan ke " + i + " arrays ke- " + arraysNew[i]);
         }
-
+        // pengulangan array
         //  pengulangan dengan menggunakan arrays
         System.out.println("======================");
         System.out.println("pengulangan dengan arrays ");
